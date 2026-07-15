@@ -22,7 +22,6 @@ An end-to-end machine learning pipeline that predicts house prices using **Linea
 - Matplotlib, Seaborn
 - Scikit-learn
 - XGBoost
-- Joblib
 
 ## 🔍 Pipeline / Methodology
 1. **Data Loading & Validation** — shape, info, summary statistics
